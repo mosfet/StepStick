@@ -1,0 +1,72 @@
+Partlist
+
+Exported from stepstick.sch at 4/18/2011 7:58:20 PM
+
+EAGLE Version 5.11.0 Copyright (c) 1988-2010 CadSoft
+
+Part     Value          Device           Package     Library        Sheet
+
+C1E      .1uf           CAP0402-CAP      0402-CAP    SparkFun       1
+C1X      .1uf           CAP0402-CAP      0402-CAP    SparkFun       1
+C1Y      .1uf           CAP0402-CAP      0402-CAP    SparkFun       1
+C1Z      .1uf           CAP0402-CAP      0402-CAP    SparkFun       1
+C2E      .1uf           CAP0402-CAP      0402-CAP    SparkFun       1
+C2X      .1uf           CAP0402-CAP      0402-CAP    SparkFun       1
+C2Y      .1uf           CAP0402-CAP      0402-CAP    SparkFun       1
+C2Z      .1uf           CAP0402-CAP      0402-CAP    SparkFun       1
+C3E      4.7uF          CAP1206          1206        SparkFun       1
+C3X      4.7uF          CAP1206          1206        SparkFun       1
+C3Y      4.7uF          CAP1206          1206        SparkFun       1
+C3Z      4.7uF          CAP1206          1206        SparkFun       1
+C4E      .22uf          CAP0402-CAP      0402-CAP    SparkFun       1
+C4X      .22uf          CAP0402-CAP      0402-CAP    SparkFun       1
+C4Y      .22uf          CAP0402-CAP      0402-CAP    SparkFun       1
+C4Z      .22uf          CAP0402-CAP      0402-CAP    SparkFun       1
+C5E      .1uf           CAP0402-CAP      0402-CAP    SparkFun       1
+C5X      .1uf           CAP0402-CAP      0402-CAP    SparkFun       1
+C5Y      .1uf           CAP0402-CAP      0402-CAP    SparkFun       1
+C5Z      .1uf           CAP0402-CAP      0402-CAP    SparkFun       1
+C6E      .1uf           CAP0402-CAP      0402-CAP    SparkFun       1
+C6X      .1uf           CAP0402-CAP      0402-CAP    SparkFun       1
+C6Y      .1uf           CAP0402-CAP      0402-CAP    SparkFun       1
+C6Z      .1uf           CAP0402-CAP      0402-CAP    SparkFun       1
+C7E      .22uf          CAP0402-CAP      0402-CAP    SparkFun       1
+C7X      .22uf          CAP0402-CAP      0402-CAP    SparkFun       1
+C7Y      .22uf          CAP0402-CAP      0402-CAP    SparkFun       1
+C7Z      .22uf          CAP0402-CAP      0402-CAP    SparkFun       1
+IC1E     A4988          A4983            QFN28ET     allegro        1
+IC1X     A4988          A4983            QFN28ET     allegro        1
+IC1Y     A4988          A4983            QFN28ET     allegro        1
+IC1Z     A4988          A4983            QFN28ET     allegro        1
+J1E      CLONOLU        CLONOLU          CLONOLU     pololu-allegro 1
+J1X      CLONOLU        CLONOLU          CLONOLU     pololu-allegro 1
+J1Y      CLONOLU        CLONOLU          CLONOLU     pololu-allegro 1
+J1Z      CLONOLU        CLONOLU          CLONOLU     pololu-allegro 1
+R1E      20k            RESISTOR0402-RES 0402-RES    SparkFun       1
+R1X      20k            RESISTOR0402-RES 0402-RES    SparkFun       1
+R1Y      20k            RESISTOR0402-RES 0402-RES    SparkFun       1
+R1Z      20k            RESISTOR0402-RES 0402-RES    SparkFun       1
+R2E      100k           RESISTOR0402-RES 0402-RES    SparkFun       1
+R2X      100k           RESISTOR0402-RES 0402-RES    SparkFun       1
+R2Y      100k           RESISTOR0402-RES 0402-RES    SparkFun       1
+R2Z      100k           RESISTOR0402-RES 0402-RES    SparkFun       1
+R3E      100k           RESISTOR0402-RES 0402-RES    SparkFun       1
+R3X      100k           RESISTOR0402-RES 0402-RES    SparkFun       1
+R3Y      100k           RESISTOR0402-RES 0402-RES    SparkFun       1
+R3Z      100k           RESISTOR0402-RES 0402-RES    SparkFun       1
+R4E      10k            RESISTOR0402-RES 0402-RES    SparkFun       1
+R4X      10k            RESISTOR0402-RES 0402-RES    SparkFun       1
+R4Y      10k            RESISTOR0402-RES 0402-RES    SparkFun       1
+R4Z      10k            RESISTOR0402-RES 0402-RES    SparkFun       1
+S1E      0.2            RESISTOR         0805        SparkFun       1
+S1X      0.2            RESISTOR         0805        SparkFun       1
+S1Y      0.2            RESISTOR         0805        SparkFun       1
+S1Z      0.2            RESISTOR         0805        SparkFun       1
+S2E      0.2            RESISTOR         0805        SparkFun       1
+S2X      0.2            RESISTOR         0805        SparkFun       1
+S2Y      0.2            RESISTOR         0805        SparkFun       1
+S2Z      0.2            RESISTOR         0805        SparkFun       1
+T1E      TRIM           TRIMPOTSMD       TRIMPOT-3MM SparkFun       1
+T1X      TRIM           TRIMPOTSMD       TRIMPOT-3MM SparkFun       1
+T1Y      TRIM           TRIMPOTSMD       TRIMPOT-3MM SparkFun       1
+T1Z      TRIM           TRIMPOTSMD       TRIMPOT-3MM SparkFun       1
